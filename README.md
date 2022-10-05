@@ -1,5 +1,5 @@
 Portofolios
-- Fullstack Class Manager (Express.Js, noSQL Firebase Realtime Database, JWT oAuth, multiple type account)
+- Rest API Class Manager (Express.Js, noSQL Firebase Realtime Database, JWT oAuth, multiple type account)
 - Fullstack Employee Attendance IoT RFID Card (Flask Python, noSQL Firebase Realtime Database, ESP8266, RFID card reader)
 
 <!---
