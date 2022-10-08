@@ -1,6 +1,6 @@
 Im Lintang, i have created over 100 devices by using Arduino, ESP and Raspberry. I also develop Artificial Intelligence, like Image Processing, Searching Algorithm, and many more. currently, I'm developing my skills in the field of fullstack web 
 
-Portofolios
+Portofolios:
 - <a href="https://github.com/lintabong/Class-Manager-ExpressJS">Rest API Class Manager</a> (Express.Js, noSQL Firebase Realtime Database, JWT oAuth, multiple type account)
 - <a href="https://github.com/lintabong/Basic-IOT-Absensi">Fullstack Employee Attendance IoT RFID Card</a> (Flask Python, noSQL Firebase Realtime Database, ESP8266, RFID card reader)
 - <a href="">POS Application</a> (Gin Golang, JWT oAuth, mySQL)
