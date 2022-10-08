@@ -1,4 +1,4 @@
-Im Lintang, i have been working as a freelancer since 2018. i started learning to code with c++ on embedded systems like arduino, esp, etc.
+Im Lintang, i have developed many tools by using arduino, esp and raspberry. I also develop machine learning, both supervised and unsupervised using python and Matlab
 
 Portofolios
 - <a>Rest API Class Manager</a> (Express.Js, noSQL Firebase Realtime Database, JWT oAuth, multiple type account)
