@@ -1,4 +1,4 @@
-Im Lintang, i have created over 100 devices by using arduino, esp and raspberry. I also develop machine learning, both supervised and unsupervised using python and Matlab. now, I'm developing my skills in the field of fullstack web
+Im Lintang, i have created over 100 devices by using Arduino, ESP and Raspberry. I also develop Artificial Intelligence, like Image Processing, Searching Algorithm, and many more. currently, I'm developing my skills in the field of fullstack web 
 
 Portofolios
 - <a href="https://github.com/lintabong/Class-Manager-ExpressJS">Rest API Class Manager</a> (Express.Js, noSQL Firebase Realtime Database, JWT oAuth, multiple type account)
