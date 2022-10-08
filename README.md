@@ -1,7 +1,7 @@
 Im Lintang, i have developed many tools by using arduino, esp and raspberry. I also develop machine learning, both supervised and unsupervised using python and Matlab. now, I'm developing my skills in the field of fullstack web
 
 Portofolios
-- <a href="google.com">Rest API Class Manager</a> (Express.Js, noSQL Firebase Realtime Database, JWT oAuth, multiple type account)
+- <a href="https://github.com/lintabong/Class-Manager-ExpressJS">Rest API Class Manager</a> (Express.Js, noSQL Firebase Realtime Database, JWT oAuth, multiple type account)
 - Fullstack Employee Attendance IoT RFID Card (Flask Python, noSQL Firebase Realtime Database, ESP8266, RFID card reader)
 
 <!---
