@@ -1,4 +1,4 @@
-<!-- Im Linstang, i have created over 100 devices by using Arduino, ESP and Raspberry. I also develop Artificial Intelligence, like Image Processing, Searching Algorithm, and many more. Currently, I'm developing my skills in the field of fullstack web development. -->
+<!-- Iam Linstang, i have created over 100 devices by using Arduino, ESP and Raspberry. I also develop Artificial Intelligence, like Image Processing, Searching Algorithm, and many more. Currently, I'm developing my skills in the field of fullstack web development. -->
 
 Hi, im Lintang, i have created many devices by using Arduino, ESP and Raspberry. I also develop Artificial Intelligence, like Image Processing, Searching Algorithm, and many more. Currently, I'm developing my skills in the field of fullstack web development.
 
