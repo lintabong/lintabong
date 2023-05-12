@@ -11,3 +11,27 @@ Hi, im Lintang, i have created many devices by using Arduino, ESP and Raspberry.
 lintabong/lintabong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+TITLE=Gui Vehicle Dimension
+WIDTH=1020
+HEIGHT=530
+
+HEIGHT_SENSOR=500
+
+WHITE=ffffff
+RED=7d3833
+GREEN=a5c7a1
+ORANGE=afa013
+LIGHT_BLUE=a7a3ff
+BLUE=5C6592
+BLACK=000000
+GRAY=d9d9db
+
+FIREBASE_APIKEY=AIzaSyCOG4GlWY9DFrmsdZlJ2T8H2vNFfzniHro
+FIREBASE_AUTHDOMAIN=vechicle-dimension.firebaseapp.com
+FIREBASE_DATABASEURL=https://vechicle-dimension-default-rtdb.firebaseio.com
+FIREBASE_PROJECTID=vechicle-dimension
+FIREBASE_STORAGEBUCKET=vechicle-dimension.appspot.com
+FIREBASE_MESSAGESENDERID=544081464635
+FIREBASE_APPID=1:544081464635:web:11477486968eb043d8fb1e
+
