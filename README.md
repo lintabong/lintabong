@@ -4,12 +4,12 @@
 
 💡 Throughout my career, I've successfully designed, developed, and implemented over 100 IoT devices, ranging from simple to advanced.
 
-🛠️ My expertise includes:🛠️ My expertise includes:
+🛠️ My expertise includes:
 - **IoT Development:** Experience in designing end-to-end systems, sensor integration, and wireless communication.
 - **Python Programming:** Python programming for backend applications, data analysis, and IoT device integration.
 - **Embedded Systems:** Design and development of hardware integrated with microcontrollers.
 
-
+<br>
 📚 Additionally, I actively contribute to open-source projects and continuously update my knowledge as technology evolves.
 
 👨‍💻 I believe technology can empower innovative solutions. Let's explore the IoT world together!
