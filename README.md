@@ -9,7 +9,6 @@
 - **Python Programming:** Python programming for backend applications, data analysis, and IoT device integration.
 - **Embedded Systems:** Design and development of hardware integrated with microcontrollers.
 
-<br>
 📚 Additionally, I actively contribute to open-source projects and continuously update my knowledge as technology evolves.
 
 👨‍💻 I believe technology can empower innovative solutions. Let's explore the IoT world together!
