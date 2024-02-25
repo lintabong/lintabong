@@ -1,4 +1,19 @@
-Hi, aim Lintang, i have created many devices by using Arduino, ESP and Raspberry. I also develop Artificial Intelligence, like Image Processing, Searching Algorithm, and many more. Currently, I'm developing my skills in the field of fullstack web development.
+👋 Hi, I'm Lintang!
+
+🚀 I'm an IoT Engineer and Python Developer with over 4 years of experience in the field.
+
+💡 Throughout my career, I've successfully designed, developed, and implemented over 100 IoT devices, ranging from simple to advanced.
+
+🛠️ My expertise includes:
+
+IoT Development: Experience in designing end-to-end systems, sensor integration, and wireless communication.
+Python Programming: Python programming for backend applications, data analysis, and IoT device integration.
+Embedded Systems: Design and development of hardware integrated with microcontrollers.
+📚 Additionally, I actively contribute to open-source projects and continuously update my knowledge as technology evolves.
+
+👨‍💻 I believe technology can empower innovative solutions. Let's explore the IoT world together!
+
+📫 Connect with me on LinkedIn [google.com].
 
 <!-- Portofolios:
 - <a href="https://github.com/lintabong/Class-Manager-ExpressJS">Rest API Class Manager</a> (Express.Js, noSQL Firebase Realtime Database, JWT oAuth, multiple type account)
